@@ -9,3 +9,13 @@
 *.bak
 *.gch
 *.pch
+# Database files
+*.db
+*.db-shm
+*.db-wal
+
+# ZK proof keys
+keys/
+
+# Test files
+test.sh
